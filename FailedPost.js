@@ -1,0 +1,1 @@
+document.getElementById("new-post-text").value=null;
